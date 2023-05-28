@@ -1,11 +1,11 @@
 ### Hello! I am Akshat Tiwari
 # 💫About Me :
-# 🔭 I’m currently working on my Skills.
-# 🌱 I’m currently learning more about Java Development and Web Development.
-# 🤔 I’m looking for help with Exploring New Technologies.
-# 💬 Ask me about any tech-related stuff.
-# 📫 How to reach me: Email - tiwariakshatat2001@gmail.com
-# ⚡ Fun fact: My favourite song is Infinity by Jaymes Young.
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Java Development and Web Development.
+🤔 I’m looking for help with Exploring New Technologies.
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - tiwariakshatat2001@gmail.com
+⚡ Fun fact: My favourite song is Infinity by Jaymes Young.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat.tiwari.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshat-tiwari-18a5a2192) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshattiwari0901) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AkshatT42615638) 
