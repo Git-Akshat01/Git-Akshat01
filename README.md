@@ -5,7 +5,6 @@
 🤔 I’m looking for help with Exploring New Technologies.
 💬 Ask me about any tech-related stuff.
 📫 How to reach me: Email - tiwariakshatat2001@gmail.com
-😄 Pronouns: He/His
 ⚡ Fun fact: My favourite song is Infinity by Jaymes Young.
 
 ## 🌐Socials
